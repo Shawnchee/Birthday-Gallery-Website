@@ -5,7 +5,7 @@ import LoadingScreen from "./components/LoadingScreen";
 import { Footer } from "./components/Footer";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./components/assets/IMG_0578.jpeg"
-import "./components/assets/photo_2023-04-06_08-58-38.jpg"
+
 
 
 function App() {
@@ -15,7 +15,7 @@ function App() {
       img: require("./components/assets/IMG_0578.jpeg")
     },
     {
-      img: require("C:/Users/aykay/Desktop/React-JS-Image-Gallery-main/src/components/assets/photo_2023-04-06_08-58-38.jpg")
+      img: require("./components/assets/photo_2023-04-06_08-58-38.jpg")
     },
     {
       img: require("C:/Users/aykay/Desktop/React-JS-Image-Gallery-main/src/components/assets/photo_2023-04-06_08-58-36.jpg")
