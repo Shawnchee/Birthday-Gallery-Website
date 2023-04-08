@@ -24,7 +24,7 @@ video {
 }
 
 header {
-  background-image: url("C:/Users/aykay/Desktop/React-JS-Image-Gallery-main/src/components/assets/Colourful Pastel Gradient Background Inspiration Quotation Instagram Post.svg");
+  background-image: url("./components/assets/Colourful Pastel Gradient Background Inspiration Quotation Instagram Post.svg");
   background-size: 100% ;
   position: fixed;
   top: 0;
