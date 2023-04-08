@@ -4,6 +4,7 @@ import './App.css';
 import LoadingScreen from "./components/LoadingScreen";
 import { Footer } from "./components/Footer";
 import "bootstrap/dist/css/bootstrap.min.css";
+import "./components/assets/IMG_0578.jpeg"
 
 
 function App() {
