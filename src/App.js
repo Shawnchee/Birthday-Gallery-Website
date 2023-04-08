@@ -10,7 +10,7 @@ function App() {
 
   const galleryImages = [
     {
-      img: require("C:/Users/aykay/Desktop/React-JS-Image-Gallery-main/src/components/assets/IMG_0578.jpeg")
+      img: require("./components/assets/IMG_0578.jpeg")
     },
     {
       img: require("C:/Users/aykay/Desktop/React-JS-Image-Gallery-main/src/components/assets/photo_2023-04-06_08-58-38.jpg")
