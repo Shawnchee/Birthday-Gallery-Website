@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+ body {
+  background-image: url("C:/Users/aykay/Desktop/React-JS-Image-Gallery-main/src/components/assets/Brown Minimalist Dried Flowers On White Background Love Declaration Desktop Wallpaper (2).svg");
+  background-size: cover;
+  background-position: center top;
+  
+  
+ } 
+
+.continue{
+  background: linear-gradient(to right, #23074d,#cc5333);
+  background-clip:text ;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 15px;
+  font-family: Cute Font ;
+  position: absolute;
+  right: 83px;
+  top: 210%;
+  transform: translateY(-50%);
+  max-width: 200px;
+  z-index: -1;
+}
+
+ .right {
+  font-size: 33px;
+  font-family: Wish Font;
+  position: absolute;
+  right: 40px;
+  top: 115%;
+  transform: translateY(-50%);
+  max-width: 270px;
+  z-index: -1;
+  background :linear-gradient(to right, #654ea3, #eaafc8);
+  background-clip:text ;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: rightTextAnimation 3s ease infinite;
+  background-size: 200% auto;
+ 
+
+ }
+
+ @keyframes rightTextAnimation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+ }
+
+
+
+ 
