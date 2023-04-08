@@ -4,8 +4,7 @@ import './App.css';
 import LoadingScreen from "./components/LoadingScreen";
 import { Footer } from "./components/Footer";
 import "bootstrap/dist/css/bootstrap.min.css";
-import "./components/assets/IMG_0578.jpeg"
-import "./components/assets/photo_2023-04-06_08-58-38.jpg"
+
 
 
 function App() {
@@ -18,37 +17,37 @@ function App() {
       img: require("./components/assets/photo_2023-04-06_08-58-38.jpg")
     },
     {
-      img: require("C:/Users/aykay/Desktop/React-JS-Image-Gallery-main/src/components/assets/photo_2023-04-06_08-58-36.jpg")
+      img: require("./components/assets/photo_2023-04-06_08-58-36.jpg")
     },
     {
-      img: require("C:/Users/aykay/Desktop/React-JS-Image-Gallery-main/src/components/assets/photo_2023-04-06_08-58-34.jpg")
+      img: require("./components/assets/photo_2023-04-06_08-58-34.jpg")
     },
     {
-      img: require("C:/Users/aykay/Desktop/React-JS-Image-Gallery-main/src/components/assets/photo_2023-04-06_08-58-32.jpg")
+      img: require("./components/assets/photo_2023-04-06_08-58-32.jpg")
     },
     {
-      img: require("C:/Users/aykay/Desktop/React-JS-Image-Gallery-main/src/components/assets/photo_2023-04-06_08-58-28.jpg")
+      img: require("./components/assets/photo_2023-04-06_08-58-28.jpg")
     },
     {
-      img: require("C:/Users/aykay/Desktop/React-JS-Image-Gallery-main/src/components/assets/photo_2023-04-06_08-58-26.jpg")
+      img: require("./components/assets/photo_2023-04-06_08-58-26.jpg")
     },
     {
-      img: require("C:/Users/aykay/Desktop/React-JS-Image-Gallery-main/src/components/assets/photo_2023-04-06_08-58-24.jpg")
+      img: require("./components/assets/photo_2023-04-06_08-58-24.jpg")
     },
     {
-      img: require("C:/Users/aykay/Desktop/React-JS-Image-Gallery-main/src/components/assets/photo_2023-04-06_08-58-20.jpg")
+      img: require("./components/assets/photo_2023-04-06_08-58-20.jpg")
     },
     {
-      img: require("C:/Users/aykay/Desktop/React-JS-Image-Gallery-main/src/components/assets/photo_2023-04-06_08-58-14.jpg")
+      img: require("./components/assets/photo_2023-04-06_08-58-14.jpg")
     },
     {
-      img: require("C:/Users/aykay/Desktop/React-JS-Image-Gallery-main/src/components/assets/photo_2023-04-06_08-58-16.jpg")
+      img: require("./components/assets/photo_2023-04-06_08-58-16.jpg")
     },
     {
-      img: require("C:/Users/aykay/Desktop/React-JS-Image-Gallery-main/src/components/assets/photo_2023-04-06_09-17-30.jpg")
+      img: require("./components/assets/photo_2023-04-06_09-17-30.jpg")
     },
     {
-      img: require("C:/Users/aykay/Desktop/React-JS-Image-Gallery-main/src/components/assets/photo_2023-04-06_08-58-12.jpg")
+      img: require("./components/assets/photo_2023-04-06_08-58-12.jpg")
     },
   ]
 
