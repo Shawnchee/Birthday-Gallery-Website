@@ -1,4 +1,4 @@
-Simple & Beginner-friendly React JS Image Gallery (Landscape viewing mode only) 🌐
+# Simple & Beginner-friendly React JS Image Gallery (Landscape viewing mode only) 🌐
 
 React JS Birthday Gallery Website that takes array of images and shows images thumbnails. On click of images full screen gallery appears and you can navigate through available images. Has a small header that follows the user, gradient animation texts, small designed footer and etc.
 
